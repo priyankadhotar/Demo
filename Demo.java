@@ -8,6 +8,8 @@ public class Demo
         int sub=a-b;
         System.out.println("Sum is:"+sum);
         System.out.println("Sub is:"+sub);
+        System.out.println("Sub is:"+sub);
+        System.out.println("Sub is:"+sub);
     }
 } 
     
